@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/oryx/python:3.8-20190730.1
+FROM mcr.microsoft.com/oryx/python:3.8-20190823.2
 LABEL maintainer="appsvc-images@microsoft.com"
 
 # Web Site Home
